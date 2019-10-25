@@ -29,7 +29,7 @@ test normal: 234,
 The images are now split into three categories with more validation images.
 
 ### Reorganizing the data:
-Data was reoganized into normal, bacteria, and viral categories using Python in this [notebook]()
+Data was reoganized into normal, bacteria, and viral categories using Python in this [notebook](https://github.com/Mrsnellek/Classiyfing-Chest-X-Ray-Images/blob/master/Split_x_ray_data.ipynb)
 Sample x-ray images images of normal, bacaria and virus are shown below: 
 ![Sample x-ray](https://github.com/Mrsnellek/Classiyfing-Chest-X-Ray-Images/blob/master/Sample%20xray%20images.png)
 
