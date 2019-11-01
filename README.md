@@ -36,6 +36,6 @@ Sample x-ray images images of normal, bacaria and virus are shown below:
 ![Sample x-ray](https://github.com/Mrsnellek/Classiyfing-Chest-X-Ray-Images/blob/master/Sample%20xray%20images.png)
 
 ### Main finding:
-Using a convolutional nerual network, x-ray images were correcly classified with an accuracy over 86% baised on the test data provided.  
+Using a convolutional nerual network, x-ray images were correcly classified with an accuracy over 84% baised on the test data provided.  
 
 
